@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/alvarobgodoy/portfolio/static/css/main.31d6cfe0.css",
+    "main.js": "/alvarobgodoy/portfolio/static/js/main.ce6f64e5.js",
+    "index.html": "/alvarobgodoy/portfolio/index.html",
+    "main.ce6f64e5.js.map": "/alvarobgodoy/portfolio/static/js/main.ce6f64e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.ce6f64e5.js"
+  ]
+}
