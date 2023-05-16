@@ -1,9 +1,10 @@
 import React from "react"
+import Navbar from "./navbar/Navbar"
 
 export default function App() {
     return (
         <>
-            <h1>it's working...</h1>
+            <Navbar />
         </>
     )
 }
